@@ -8703,7 +8703,7 @@
       <mobile>
         <possibleLengths national="10" localOnly="7"/>
         <exampleNumber>8092345678</exampleNumber>
-        <nationalNumberPattern>8[024]9[2-9]\d{6}</nationalNumberPattern>
+        <nationalNumberPattern>8[024]9\d{7}</nationalNumberPattern>
       </mobile>
       <tollFree>
         <possibleLengths national="10"/>
